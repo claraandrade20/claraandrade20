@@ -37,7 +37,7 @@ Gosto de aprender coisas novas, desenvolver projetos e transformar ideias em sol
 
 ---
 
-## ## 📚 Atualmente aprendendo na minha Formação 
+## 📚 Atualmente aprendendo
 
 - Estruturas de Dados (Pilha, Fila, Árvores)
 - Programação em Java (POO e projetos práticos)
