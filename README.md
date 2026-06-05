@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <h1>Olá, eu sou a Clara! 👋</h1>
   <p><strong>Estudante de Ciência da Computação | Desenvolvedora de Software & Resolução de Problemas</strong></p>
 </div>
@@ -33,15 +33,6 @@ Sempre em busca de aprender novas tecnologias, colaborar em projetos de código 
 - **Desenvolvimento Web Full Stack** & Bancos de Dados (SQL)
 - **Paradigma Funcional** explorando aplicações em Clojure
 - **Lógica e Matemática Discreta** aplicada à computação
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radial&include_all_commits=true" alt="Estatísticas do GitHub de Clara" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radial" alt="Linguagens mais usadas" height="180em"/>
-</p>
 
 ---
 
