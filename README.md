@@ -1,20 +1,19 @@
-<h1 align="left">Olá, eu sou a Clara! </h1>
-
-<p align="left">
-Estudante de Ciência da Computação <br>
-Focada em desenvolvimento de software e resolução de problemas
-</p>
+<div align="center">
+  <h1>Olá, eu sou a Clara! 👋</h1>
+  <p><strong>Estudante de Ciência da Computação | Desenvolvedora de Software & Resolução de Problemas</strong></p>
+</div>
 
 ---
 
-## Sobre mim
+## 👩‍💻 Sobre Mim
 
-Sou estudante de Ciência da Computação com interesse em desenvolvimento de software e resolução de problemas através da programação.  
-Gosto de aprender coisas novas, desenvolver projetos e transformar ideias em soluções reais.
+Sou estudante de Ciência da Computação apaixonada por transformar ideias em soluções reais através do código. Tenho forte interesse em desenvolvimento de software, arquitetura de sistemas e na resolução de problemas complexos. 
+
+Sempre em busca de aprender novas tecnologias, colaborar em projetos de código aberto e evoluir continuamente como profissional.
 
 ---
 
-## Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -27,23 +26,29 @@ Gosto de aprender coisas novas, desenvolver projetos e transformar ideias em sol
 
 ---
 
-## Atualmente aprendendo
+## 📚 Atualmente Focada Em
 
-- Estruturas de Dados (Pilha, Fila, Árvores)
-- Programação em Java (POO e projetos práticos)
-- Lógica e Matemática Discreta
-- Desenvolvimento Web Full Stack
-- Banco de Dados (SQL)
-- Aplicações em Clojure
-....
-  
+- **Estruturas de Dados** (Pilhas, Filhas, Árvores e Complexidade de Algoritmos)
+- **Programação Orientada a Objetos (POO)** aplicada com Java 
+- **Desenvolvimento Web Full Stack** & Bancos de Dados (SQL)
+- **Paradigma Funcional** explorando aplicações em Clojure
+- **Lógica e Matemática Discreta** aplicada à computação
+
 ---
 
-
-## Vamos nos conectar?
+## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/clara-andrade-248bb8352/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radial&include_all_commits=true" alt="Estatísticas do GitHub de Clara" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radial" alt="Linguagens mais usadas" height="180em"/>
+</p>
+
+---
+
+## 🤝 Vamos nos conectar?
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/clara-andrade-248bb8352/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
